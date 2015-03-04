@@ -27,7 +27,7 @@ public class ClienteServlet extends HttpServlet {
 		
 		req.setAttribute("nome", c.getNome());
 		
-		
+		//
 	}
 	
 }
